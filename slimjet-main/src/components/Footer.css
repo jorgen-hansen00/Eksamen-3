@@ -1,0 +1,27 @@
+.main-footer {
+  color: white;
+  background-color: #d41d2f;
+  padding-top: 2em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+.row {
+  display: flex;
+  flex-direction:row;
+  min-height: 10vh;
+  text-align:justify;
+  padding-left: 35vh;
+}
+.col2 {
+  padding-left: 35vh;
+}
+.col3 {
+  padding-left: 35vh;
+}
+
+.row2 {
+  text-align: center;
+}
